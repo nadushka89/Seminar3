@@ -21,4 +21,4 @@ void GetPolindroid(int number)
     else
         Console.WriteLine($"{number} не является пятизначным числом");
 }
-GetPolindroid (234);
+GetPolindroid(234);
